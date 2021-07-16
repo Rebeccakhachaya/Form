@@ -1,0 +1,17 @@
+.form{
+    background-color: rgb(158, 200, 206);
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+p{
+    text-align: center;
+}
+.sign{
+    text-align: center;
+    text-decoration: rgb(43, 59, 61);
+    font-style: italic;
+}
